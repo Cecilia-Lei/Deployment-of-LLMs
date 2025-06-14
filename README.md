@@ -154,7 +154,7 @@ model = AutoModelForCausalLM.from_pretrained(
 inputs = tokenizer(prompt, return_tensors="pt").input_ids
 
 streamer = TextStreamer(tokenizer)
-outputs = model.generate(inputs, streamer=streamer, max_new_tokens=500
+outputs = model.generate(inputs, streamer=streamer, max_new_tokens=500)
 ```
 
 运行实例
