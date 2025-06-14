@@ -11,7 +11,7 @@
 
  - [智谱chatglm3-6b](https://www.modelscope.cn/models/ZhipuAI/chatglm3-6b/summary)
 
- - [百川2-7B-对话模型](https://www.modelscope.cn/models/baichuan-inc/Baichuan2-7B-Chat/summary)
+ - [百川Baichuan2-7B-chat](https://www.modelscope.cn/models/baichuan-inc/Baichuan2-7B-Chat/summary)
 
  ### 3.应用场景
 - 请说出以下两句话区别在哪里？ ①冬天：能穿多少穿多少 ②夏天：能穿多少穿多少
